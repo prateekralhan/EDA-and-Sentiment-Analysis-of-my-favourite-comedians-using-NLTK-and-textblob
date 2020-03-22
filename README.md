@@ -1,1 +1,1 @@
-## Sentiment Analyssi of my favourite Standup Comedians - README to be updated soon
+## Sentiment Analysis of my favourite Standup Comedians - README to be updated soon
